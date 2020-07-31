@@ -1,0 +1,1 @@
+window.alert("Author have put some hover and animation effects in this  page so look it for study");
